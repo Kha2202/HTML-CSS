@@ -1,0 +1,14 @@
+.txt {
+  text-align: center;
+}
+.h1 {
+  background-color: rgb(238, 123, 142);
+  color: red;
+}
+.h2 {
+  background-color: yellow;
+  color: black;
+}
+#p1 {
+  color: blue;
+}

@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://png.pngtree.com/png-vector/20250512/ourmid/pngtree-lotus-flower-png-border-png-image_16223806.png);
+  text-align: center;
+}
+#h1 {
+  color: #f61818;
+  font-size: 50px;
+}
+#p1 {
+  background-color: red;
+  color: azure;
+}
+#p2 {
+  color: green;
+}
